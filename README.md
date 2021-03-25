@@ -1,1 +1,2 @@
-# urban-octo-journey
+# Custom Range Slider
+## Range Slider using CSS & JS
